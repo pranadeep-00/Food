@@ -74,6 +74,9 @@ p{
     padding: 10px;
     margin: 10px;
 }
+.card-pic{
+  text-align: center;
+}
 .card-image{
     margin-top: 10px;
     height: 80px;
